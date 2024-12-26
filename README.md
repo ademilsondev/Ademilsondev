@@ -1,4 +1,8 @@
-## Hi there 👋
+BEM VINDO AO MEU PERFIL!
+
+[TEXTO DA IMAGEM](https://stock.adobe.com/br/search?k=le%C3%A3o&asset_id=603129857)
+
+![TEXTO DA IMAGEM](https://stock.adobe.com/br/search?k=le%C3%A3o&asset_id=603129857)
 
 <!--
 **ademilsondev/Ademilsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
