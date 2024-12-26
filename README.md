@@ -1,8 +1,8 @@
-BEM VINDO AO MEU PERFIL!
+BEM VINDO AO MEU GITHUb!
 
-[TEXTO DA IMAGEM](https://stock.adobe.com/br/search?k=le%C3%A3o&asset_id=603129857)
+![git do gatinho](https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif)
 
-![TEXTO DA IMAGEM](https://stock.adobe.com/br/search?k=le%C3%A3o&asset_id=603129857)
+
 
 <!--
 **ademilsondev/Ademilsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://tenor.com/pt-BR/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203
