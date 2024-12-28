@@ -1,6 +1,28 @@
-BEM VINDO AO MEU GITHUb!
+BEM VINDO AO MEU MUNDO!
 
 ![git do gatinho](https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif)
+--------------------
+👽 Olá me chamo Ademilson Almeida!
+💬 Sou formado em teologia,(Curso Superior em Bacharelado em teologia). Mas estou apaixonado por tecnologia! Estou estudando front end.
+-------
+
+📫[Acesse o meu linkedin](https://www.linkedin.com/in/ademilson-silva-650816191/)
+------
+
+##Tecnologias em andamento
+
+|CURSOS | CERTIFICADOS |
+--------|-----------------
+|Html na prática|[Certificado](https://hermes.dio.me/certificates/ZK08SKHR.pdf)
+|Certificações|[Certificado](https://hermes.dio.me/certificates/A1BNXVV5.pdf)
+|Formatação com Markdown| [Certificado](https://hermes.dio.me/certificates/JJ7HFXWB.pdf)
+---------------
+
+
+
+
+
+
 
 
 
